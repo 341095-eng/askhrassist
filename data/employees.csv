@@ -1,0 +1,16 @@
+employee_id,name,department,manager,annual_entitled,annual_used,annual_remaining,sick_entitled,sick_used,sick_remaining,casual_entitled,casual_used,casual_remaining
+AP1001,Aarav Mehta,Engineering,Maya Rao,18,5,13,10,2,8,6,1,5
+AP1002,Diya Nair,Engineering,Maya Rao,18,8,10,10,1,9,6,3,3
+AP1003,Kabir Shah,Product,Neel Iyer,18,3,15,10,0,10,6,2,4
+AP1004,Meera Joshi,People Operations,Sana Kapoor,18,7,11,10,4,6,6,1,5
+AP1005,Rohan Das,Finance,Vikram Sethi,18,10,8,10,2,8,6,4,2
+AP1006,Ananya Bose,Sales,Ishaan Verma,18,6,12,10,3,7,6,0,6
+AP1007,Vihaan Kulkarni,Customer Success,Leena Pillai,18,12,6,10,1,9,6,5,1
+AP1008,Ira Malhotra,Marketing,Neel Iyer,18,4,14,10,5,5,6,2,4
+AP1009,Arjun Menon,Information Security,Maya Rao,18,2,16,10,0,10,6,1,5
+AP1010,Saanvi Gupta,Operations,Leena Pillai,18,9,9,10,2,8,6,3,3
+AP1011,Reyansh Patil,Engineering,Maya Rao,18,1,17,10,6,4,6,0,6
+AP1012,Myra Chawla,Legal,Vikram Sethi,18,5,13,10,1,9,6,2,4
+AP1013,Aditya Jain,Design,Neel Iyer,18,11,7,10,3,7,6,1,5
+AP1014,Tara Krishnan,Customer Success,Leena Pillai,18,0,18,10,2,8,6,4,2
+AP1015,Dev Arora,Sales,Ishaan Verma,18,7,11,10,0,10,6,3,3
